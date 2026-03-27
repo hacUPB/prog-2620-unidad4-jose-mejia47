@@ -17,8 +17,8 @@ for i in range(100):
 indice = 0
 may = lista[0]
 while indice < 99:
-    if may < lista[indice+1]
-    may = lista[indice+1]
+    if may < lista[indice+1]:
+     may = lista[indice+1]
 indice += 1
 
 print(f"el mayor calculo a mano es: {may}")
