@@ -3,7 +3,7 @@
 import random
 print(random.randint(2,19))
 
-# crear una lñista con 100 numero aleatorios entre 100 y 200
+# crear una lista con 100 numero aleatorios entre 100 y 200
 
 lista = []
 for i in range(100):
